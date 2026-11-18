@@ -71,23 +71,6 @@ src/main/java/io/labforward/
 - JDK 8 or later
 - Maven 3.6+
 
-### Run
-
-```bash
-git clone https://github.com/okayjiiiramya/FlexCatalog-API.git
-cd FlexCatalog-API
-mvn spring-boot:run
-```
-
-The API starts on **http://localhost:8080**. Data lives in memory and resets on every restart.
-
-### Run the tests
-
-```bash
-mvn test
-```
-
----
 
 ## 🔌 API Reference
 
